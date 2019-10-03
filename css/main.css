@@ -1,0 +1,25 @@
+#mainBody{
+    width: 1080px;
+    height: 900px;
+    background-color: antiquewhite;
+}
+#mainBody h1{
+    font-size: 38px;
+    margin: 0 auto;
+    text-align: center;
+    color: yellowgreen;
+    margin-left: 180px;
+}
+#tims img{
+    margin-top: 80px;
+    width: 80%;
+    height: auto;
+    margin-left: 300px;
+}
+#tims p{
+    font-size: 20px;
+    color: blueviolet;
+    text-align: center;
+    margin: 0 auto;
+    margin-left: 290px;
+}
